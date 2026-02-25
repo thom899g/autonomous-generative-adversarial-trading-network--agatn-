@@ -1,0 +1,2 @@
+# autonomous-generative-adversarial-trading-network--agatn-
+**TITLE:** Autonomous Generative Adversarial Trading Network (AGATN)**DESCRIPTION:**  An AI-driven trading ecosystem that employs generative adversarial networks (GANs) for synthetic market scenario generation and graph neural networks (GNNs) to model cross-asset dependencies. The system autonomously evolves its strategies through self-supervised l
